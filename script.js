@@ -1,4 +1,4 @@
-const API = "http://localhost:3000";
+const API = "https://vigilant-meme-97xrq76rw645fqw4-3000.app.github.dev/";
 
 async function comprar() {
   const res = await fetch(`${API}/pix`, {
